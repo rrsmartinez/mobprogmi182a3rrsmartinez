@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">convertmilestokm</string>
+    <string name="stringconvert_miles_to_km">Convert Miles to Km</string>
+    <string name="stringconvert_km_to_miles">Convert KM to Miles</string>
+    <string name="string_stringmiles">\@string/stringmiles</string>
+    <string name="string_enter_number_1">+@string/Enter_Number_1</string>
+    <string name="string_stringkilometers">+@string/stringkilometers</string>
+    <string name="string_enter_number_1">+@string/Enter_Number_1</string>
+    <string name="stringmiles">miles</string>
+    <string name="stringenter_number_1">enter_number_1</string>
+    <string name="stringenter_number_1">enter_number_1</string>
+    <string name="stringkilometers">kilometers</string>
+</resources>
